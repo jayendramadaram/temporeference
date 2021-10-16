@@ -1,0 +1,314 @@
+1633869831131	geckodriver	INFO	Listening on 127.0.0.1:33681
+1633869832129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJzWRnq"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633869840215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJzWRnq/search.json.mozlz4", (void 0)))
+1633869854412	Marionette	INFO	Listening on port 41811
+1633869854788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+1633869899116	geckodriver	INFO	Listening on 127.0.0.1:48261
+1633869899178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCL8I4q"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633869901806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCL8I4q/search.json.mozlz4", (void 0)))
+1633869910188	Marionette	INFO	Listening on port 43907
+1633869910464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1633869971005	geckodriver	INFO	Listening on 127.0.0.1:57795
+1633869971018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles5ujkh"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633869973265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles5ujkh/search.json.mozlz4", (void 0)))
+1633869982071	Marionette	INFO	Listening on port 43305
+1633869982259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 13: TypeError: e.getElementsByClassName(...)[0] is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633870468017	geckodriver	INFO	Listening on 127.0.0.1:56667
+1633870468085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHZUDA3"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633870472380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHZUDA3/search.json.mozlz4", (void 0)))
+1633870485687	Marionette	INFO	Listening on port 41975
+1633870485864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+1633870646210	geckodriver	INFO	Listening on 127.0.0.1:53971
+1633870646294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefephgh"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633870650461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefephgh/search.json.mozlz4", (void 0)))
+1633870673311	Marionette	INFO	Listening on port 42585
+1633870673824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+1633870745741	geckodriver	INFO	Listening on 127.0.0.1:51111
+1633870746742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletEUugi"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633870749946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletEUugi/search.json.mozlz4", (void 0)))
+1633870759482	Marionette	INFO	Listening on port 44549
+1633870759714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633870993814	geckodriver	INFO	Listening on 127.0.0.1:58625
+1633870994821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewb2GMC"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633870998679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewb2GMC/search.json.mozlz4", (void 0)))
+1633871012207	Marionette	INFO	Listening on port 33873
+1633871012571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633871169862	geckodriver	INFO	Listening on 127.0.0.1:32975
+1633871169873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledZm9N2"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633871173104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledZm9N2/search.json.mozlz4", (void 0)))
+1633871182922	Marionette	INFO	Listening on port 35271
+1633871183293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+1633871239791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1633871317801	geckodriver	INFO	Listening on 127.0.0.1:58135
+1633871318803	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAq3cI8"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1633871321922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAq3cI8/search.json.mozlz4", (void 0)))
+1633871332362	Marionette	INFO	Listening on port 42653
+1633871332514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1634107036711	geckodriver	INFO	Listening on 127.0.0.1:53151
+1634107037684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYmEBiw"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1634107045337	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYmEBiw/search.json.mozlz4", (void 0)))
+1634107053125	Marionette	INFO	Listening on port 36081
+1634107054645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+JavaScript error: https://staticw2.yotpo.com/SDbQeSGw8hYbQflfFDk3GcleJkwiDe8wZD1NS3UP/widget.js, line 1: TypeError: this.inview is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

@@ -11,6 +11,9 @@ discord = "^1.7.3"
 Flask = "^2.0.1"
 requests-futures = "^1.0.0"
 torrequest = "^0.1.0"
+bs4 = "^0.0.1"
+selenium = "^3.141.0"
+lxml = "^4.6.3"
 
 [tool.poetry.dev-dependencies]
 
